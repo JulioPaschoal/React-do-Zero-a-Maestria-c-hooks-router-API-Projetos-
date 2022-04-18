@@ -11,6 +11,3 @@ Crie projetos completos com React, utilizando tecnologias em alta no mercado com
 - Seção 7: Requisições HTTP com React;
 - Seção 8: React Router;
 - Seção 9: Context API do React;
-
-
-# React-do-Zero-a-Maestria-c-hooks-router-API-Projetos-
